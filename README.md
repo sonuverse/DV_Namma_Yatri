@@ -121,6 +121,23 @@ DV_Namma_Yatri/
 ```
 This is a suggested structure. Add only files that actually exist and that you are allowed to share. Do not upload private or restricted data.
 
+## Repository Contents
+
+- **Project Documentation:** Overview, business objectives, tools, dataset structure, analysis approach, findings, and recommendations.
+- **PDF Reports:** Project report and available dashboard export.
+- **Presentations:** Project presentation files.
+
+## Project Limitations
+
+The Power BI `.pbix` file and original source dataset are not included in this repository version because they are currently unavailable. The repository documents the analysis and includes the available exported deliverables.
+
+## Future Improvements
+
+- Add the Power BI `.pbix` file when available.
+- Include the source dataset if it can be shared publicly and its usage permissions allow it.
+- Add dashboard screenshots to make the visual analysis easier to review.
+
+
 ## How to Explore the Project
 1. Open the Power BI `.pbix` file if included in the repository.
 2. Review the model relationships and confirm measure definitions.
